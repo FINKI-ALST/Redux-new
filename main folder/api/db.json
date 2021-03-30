@@ -1,0 +1,9 @@
+{
+  "students":[
+    { "name": "Veb programiranje", "description": "Izuchuvanje Spring Boot", "teaching": "Marko" , "treacherous": "Markov" },
+    { "name": "Vizuelizacija", "description": "Vizueliziranje grafici", "teaching": "Nikola" , "treacherous": "Nikolov" },
+    { "name": "Veb", "description": "Spring security", "teaching": "Elena" , "treacherous": "Jovanova" },
+    { "name": "Napredna interakcija covek kompjuter", "description": "Aplikacii za lugje so odreden hendikep", "teaching": "Aleksandra" , "treacherous": "Stefanovska" },
+    { "name": "Veb bazirani sistemi", "description": "RDF", "teaching": "Angela" , "treacherous": "Jovanoska" }
+  ]
+}
