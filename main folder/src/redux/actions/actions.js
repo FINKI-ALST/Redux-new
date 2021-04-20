@@ -1,4 +1,4 @@
-import {                       // IMPORT TYPE VARIABLES
+import {                       
     ADD_NEW_COURSE,
     ADD_ALL_COURSES
 } from './../types/types';
